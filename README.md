@@ -8,6 +8,6 @@ SmartLab ran an experiment where they had subjects go through a series of tests 
 
 They have released the raw and processed data from these experiments; however, the data is not in easily understandable neither in  useable form. This project converts the data into two separate tidy datasets:
 
-    tidy-dataset.txt contains the mean and standard deviation of each measurement for all subjects and tests.
+    tidy_data_set.txt contains the mean and standard deviation of each measurement for all subjects and tests.
 
 To download and tidy the data, simply run the run_analysis.R script.
