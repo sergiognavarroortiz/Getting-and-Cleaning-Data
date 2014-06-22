@@ -4,8 +4,8 @@ Each variable below is a single column in the tidy datasets. For the details, I 
 Variable	Details
 Subject	The ID of the test subject.
 Test	The specific test peformed.
-time.BodyAcceleration.mean.X	Mean time for acceleration of body for X direction.
-time.BodyAcceleration.mean.Y	Mean time for acceleration of body for Y direction.
+time.BodyAcceleration.mean.X	                Mean time for acceleration of body for X direction.
+time.BodyAcceleration.mean.Y	                Mean time for acceleration of body for Y direction.
 time.BodyAcceleration.mean.Z	Mean time for acceleration of body for Z direction.
 time.BodyAcceleration.std.X	Standard deviation of time for acceleration of body for X direction.
 time.BodyAcceleration.std.Y	Standard deviation of time for acceleration of body for Y direction.
