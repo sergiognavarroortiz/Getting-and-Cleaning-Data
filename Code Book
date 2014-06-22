@@ -1,6 +1,6 @@
 Code book
 All signals were normalized to have a value ranging from -1 to 1, so all of the data is unitless.
-Each variable below is a single column in the tidy datasets. For the details, I interpreted them to the best of my ability, but I am clearly not a physicist or engineer.
+Each variable below is a single column in the tidy datasets.
 
 
 
